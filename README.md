@@ -92,13 +92,13 @@ The codebase is **MCP-ready** so that external **AI assistants** (e.g. ChatGPT, 
 └─────────────────────────────┬───────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  CORE AI AGENT ENGINE                                        │
-│  Event → Decision (rule / LLM) → Action                      │
+│  CORE AI AGENT ENGINE                                       │
+│  Event → Decision (rule / LLM) → Action                     │
 └─────────────────────────────┬───────────────────────────────┘
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  ACTION LAYER                                                │
-│  SMS  ·  Database  ·  Payment Links  ·  Mobile Web           │
+│  ACTION LAYER                                               │
+│  SMS  ·  Database  ·  Payment Links  ·  Mobile Web          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
